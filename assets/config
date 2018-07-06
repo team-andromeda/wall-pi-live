@@ -1,0 +1,60 @@
+{
+    "authOptions": {
+        "url": "https://login.microsoftonline.com/bbd.co.za/oauth2/v2.0/authorize",
+        "client_id": "7581efe1-92c9-48cf-80ce-bda8116fd1a4",
+        "redirect_uri": "https://team-andromeda.github.io/wall-pi-live/callback" 
+    },
+     "rooms": [
+        {
+            "id": "assembly",
+            "name": "Assembly - VC",
+            "locations": [
+                {
+                    "name": "JHB",
+                    "locationString": "Assembly - VC"
+                }
+            ]
+        },
+        {
+            "id": "collaborationcentrer",
+            "name": "Collaboration Center",
+            "locations": [
+                {
+                    "name": "JHB",
+                    "locationString": "collaborationcentrer"
+                }
+            ]
+        },
+        {
+            "id": "windows",
+            "name": "Windows",
+            "locations": [
+                {
+                    "name": "PTA",
+                    "locationString": "TODO"
+                }
+            ]
+        },
+        {
+            "id": "iOS",
+            "name": "iOS",
+            "locations": [
+                {
+                    "name": "PTA",
+                    "locationstring": "TODO"
+                }
+            ]
+        },
+        {
+            "id": "Flex",
+            "name": "Flex",
+            "locations": [
+                {
+                "name": "JHB",
+                "locationString": "TODO"
+                }
+            ]
+        
+        }
+    ]
+}

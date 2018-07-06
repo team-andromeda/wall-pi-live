@@ -1,2 +1,0 @@
-# wall-pi-live
-Deploy
